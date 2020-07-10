@@ -1,5 +1,12 @@
-### Hi there 👋
+<div style="text-align:center">
 
+### Hi there 👋
+### I'm Mikal
+
+![Mikal Anthony Vibal](https://avatars2.githubusercontent.com/u/6693682?s=460&v=4)
+
+
+</div>
 <!--
 **vibal/vibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
